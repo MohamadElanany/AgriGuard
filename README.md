@@ -34,6 +34,31 @@ Python, FastAPI, TensorFlow/Keras, MobileNetV2
 
 React Frontend → ASP.NET Core Web API → FastAPI AI Microservice → TensorFlow/Keras Model
 
+##  Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+---
+
+### AI Diagnosis
+![Diagnosis](images/diagnosis.png)
+
+---
+
+### My Plants
+![MyPlants](images/myplants.png)
+
+---
+
+### Analytics Dashboard
+![Analytics](images/analytics.png)
+
+---
+
+### User Profile
+![Profile](images/profile.png)
+
 ## Author
 
 Mohamed Ibrahim
